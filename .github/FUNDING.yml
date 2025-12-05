@@ -1,0 +1,27 @@
+# Эти файлы конфигурации используются для настройки способов финансирования вашего проекта
+
+# Подробности см. на https://github.com/github/docs/blob/main/content/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-funding-files.md
+
+# GitHub Sponsors
+github: # Замените на ваше имя пользователя GitHub
+
+# Patreon
+patreon: # noso
+
+# Open Collective
+open_collective: # noso
+
+# Ko-fi
+ko_fi: # noso
+
+# Tidelift
+tidelift: # npm/example-package
+
+# Community Bridge
+community_bridge: # noso
+
+# Buy Me a Coffee
+buy_me_a_coffee: # noso
+
+# Custom
+custom: # https://noso.ru/donate
